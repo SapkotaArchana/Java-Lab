@@ -1,4 +1,4 @@
-package Lab;
+
 
 class LLStack {
 //    java.util.LinkedList<Object> list = new java.util.LinkedList<Object>();

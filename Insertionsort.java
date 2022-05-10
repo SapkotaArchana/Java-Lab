@@ -1,4 +1,4 @@
-package Lab;
+
 class insertion{
     public void insertionSort(int A[],int n){
         for(int i=0;i<n;i++){

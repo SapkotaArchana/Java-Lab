@@ -35,7 +35,7 @@
 //     }
 // }
 
-package Lab;
+
 
 class selection{
     public void selectionSort(int array[]){

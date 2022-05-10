@@ -1,4 +1,4 @@
-package Lab;
+
 
 class IntSLLNode {
     public int info;

@@ -1,4 +1,4 @@
-package Lab;
+
 class QuickSO{
     public int partition(int array[], int low, int high) {
         // choose the rightmost element as pivot

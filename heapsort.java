@@ -1,4 +1,4 @@
-package Lab;
+
 class heap{
     public void heapify(int arr[], int n, int i){
         int largest = i;                                                                                                                                                          

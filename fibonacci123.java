@@ -1,4 +1,4 @@
-package Lab;
+
 import java.util.Scanner;
 class fibo{
     int fib(int n){

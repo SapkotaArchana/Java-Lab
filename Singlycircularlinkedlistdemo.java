@@ -1,4 +1,4 @@
-package Lab;
+
 
 class SCLLNode {
     public int info;

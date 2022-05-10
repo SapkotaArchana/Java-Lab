@@ -1,4 +1,4 @@
-package Lab;
+
 
 class DCLLNode {
     public int info;
